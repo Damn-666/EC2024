@@ -10,6 +10,8 @@ Tinkercad
 ![螢幕擷取畫面 2024-03-26 152128](https://github.com/Damn-666/EC2024/assets/162285202/f7e52ef6-c620-44ca-8463-0de2fb65cf58)
 4 - 麵包板 + LED X 3+ Resistor X 3 (i.e., Current Limit; R分別是900, 9K, 90K ohm), 使用電錶量測電流; 請試著分析與說明結果
 實作![螢幕擷取畫面 2024-03-26 153254](https://github.com/Damn-666/EC2024/assets/162285202/c81578c6-6b92-4ede-b24c-cd516543a973)
+實作5: 麵包板 + LED X 2 + Capacitor (10uF, 0.1uF) X 2, Switch X2, 使用示波器量測 (分離時間: 1s); 請試著分析與說明結果
+![螢幕擷取畫面 2024-03-26 154444](https://github.com/Damn-666/EC2024/assets/162285202/456476fd-fa45-477d-8386-6c1aa24da521)
 
 
 
