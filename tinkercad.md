@@ -1,4 +1,4 @@
-![螢幕擷取畫面 2024-03-26 153254](https://github.com/Damn-666/EC2024/assets/162285202/628ad813-acaa-43a4-9f97-e7d02c7b2863)
+
 ![image](https://github.com/Damn-666/EC2024/assets/162285202/59e31222-ede8-460d-8b8a-a2bef976ed15)
 
 Tinkercad
