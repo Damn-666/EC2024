@@ -12,7 +12,10 @@ Tinkercad
 實作![螢幕擷取畫面 2024-03-26 153254](https://github.com/Damn-666/EC2024/assets/162285202/c81578c6-6b92-4ede-b24c-cd516543a973)
 實作5: 麵包板 + LED X 2 + Capacitor (10uF, 0.1uF) X 2, Switch X2, 使用示波器量測 (分離時間: 1s); 請試著分析與說明結果
 ![螢幕擷取畫面 2024-03-26 154444](https://github.com/Damn-666/EC2024/assets/162285202/456476fd-fa45-477d-8386-6c1aa24da521)
-
+C. 本週任務: 電路實習回顧與整理
+1
+![螢幕擷取畫面 ![螢幕擷取畫面 2024-04-02 151109](https://github.com/Damn-666/EC2024/assets/162285202/e47acc96-7d33-4a97-bbdf-574b3cda0552)
+2024-04-02 151029](https://github.com/Damn-666/EC2024/assets/162285202/cc64ca10-5040-4b40-998e-5ab8c5753ccd)
 
 
 
