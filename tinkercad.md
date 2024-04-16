@@ -28,6 +28,8 @@ EC2024/assets/162285202/42166c13-a707-462b-baea-04e5877c5c4f)
 
 ![image](https://github.com/Damn-666/EC2024/assets/162285202/9b290ed3-cbb1-4293-bcd2-378ee5c3fe6c)
 
+![image](https://github.com/Damn-666/EC2024/assets/162285202/65a0c1c0-b180-4cdf-a0e0-c60b02d9ae5c)
+
 
 
 
