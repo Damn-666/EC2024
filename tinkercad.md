@@ -24,6 +24,12 @@ EC2024/assets/162285202/42166c13-a707-462b-baea-04e5877c5c4f)
 ![螢幕擷取畫面 2024-04-02 154639](https://github.com/Damn-666/EC2024/assets/162285202/f974fbbc-3a3f-486d-9924-e8166745f180)
 ![螢幕擷取畫面 2024-04-02 154657](https://github.com/Damn-666/EC2024/assets/162285202/4ca9693c-4e4d-44de-9b26-e705677c18a0)
 
+![image](https://github.com/Damn-666/EC2024/assets/162285202/0b73a4ff-403c-44eb-99bd-1b991be778ab)
+
+![image](https://github.com/Damn-666/EC2024/assets/162285202/9b290ed3-cbb1-4293-bcd2-378ee5c3fe6c)
+
+
+
 
 
 
