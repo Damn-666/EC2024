@@ -14,7 +14,8 @@ Tinkercad
 ![螢幕擷取畫面 2024-03-26 154444](https://github.com/Damn-666/EC2024/assets/162285202/456476fd-fa45-477d-8386-6c1aa24da521)
 C. 本週任務: 電路實習回顧與整理:
 半波整流電路
-![螢幕擷取畫面 2024-04-02 151109](https://github.com/Damn-666/EC2024/assets/162285202/42166c13-a707-462b-baea-04e5877c5c4f)
+![螢幕擷取畫面 2024-04-02 151109](https://github.com/Damn-666/
+EC2024/assets/162285202/42166c13-a707-462b-baea-04e5877c5c4f)
 聯截波電路（Clipping Circuit）
 ![螢幕擷取畫面 2024-04-02 151029](https://github.com/Damn-666/EC2024/assets/162285202/5f393827-3c54-4c3e-8846-4e0cf80fc93b)
 二極體OR閘
@@ -23,6 +24,8 @@ C. 本週任務: 電路實習回顧與整理:
 ![螢幕擷取畫面 2024-04-02 154639](https://github.com/Damn-666/EC2024/assets/162285202/f974fbbc-3a3f-486d-9924-e8166745f180)
 ![螢幕擷取畫面 2024-04-02 154657](https://github.com/Damn-666/EC2024/assets/162285202/4ca9693c-4e4d-44de-9b26-e705677c18a0)
 
+
+![image](https://github.com/Damn-666/EC2024/assets/162285202/633aee12-6ae1-4efc-a62d-4045eec14594)
 
 
 
