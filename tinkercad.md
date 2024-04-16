@@ -30,19 +30,18 @@ EC2024/assets/162285202/42166c13-a707-462b-baea-04e5877c5c4f)
 
 ![image](https://github.com/Damn-666/EC2024/assets/162285202/65a0c1c0-b180-4cdf-a0e0-c60b02d9ae5c)
 
-![image](https://github.com/Damn-666/EC2024/assets/162285202/0d3c4e93-1cfa-4e38-a7a4-8086b74598f0)
+![image](https://github.com/Damn-666/EC2024/assets/162285202/d6965434-2f91-4377-8024-394566d84d40)
 
-![image](https://github.com/Damn-666/EC2024/assets/162285202/bcd479b9-b6a7-4c94-afe7-f8a4d48ed589)
+![image](https://github.com/Damn-666/EC2024/assets/162285202/0ba3ece8-444b-469d-a695-ca2f4bc5e50c)
 
-![image](https://github.com/Damn-666/EC2024/assets/162285202/c0b6529f-ee83-4b44-9bdd-75511e056b14)
+![image](https://github.com/Damn-666/EC2024/assets/162285202/d2d14f6c-94f0-4859-878d-97d08ad8d81c)
 
-![image](https://github.com/Damn-666/EC2024/assets/162285202/c923e7d7-f9c5-4620-8cb7-2a70fbbd4afc)
+![image](https://github.com/Damn-666/EC2024/assets/162285202/14eaaf0f-55c6-480d-b841-88cddf93741b)
 
-![image](https://github.com/Damn-666/EC2024/assets/162285202/f7993867-7d9f-44c6-8418-80cdbf412c16)
-
-![Uploading image.jpeg…]()
+![image](https://github.com/Damn-666/EC2024/assets/162285202/5b363684-6599-48ce-8904-de27d99a3fc1)
 
 
+![image](https://github.com/Damn-666/EC2024/assets/162285202/6b2070f2-eb24-442d-a5c5-ea5b7991dc92)
 
 
 
