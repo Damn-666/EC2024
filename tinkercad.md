@@ -30,6 +30,17 @@ EC2024/assets/162285202/42166c13-a707-462b-baea-04e5877c5c4f)
 
 ![image](https://github.com/Damn-666/EC2024/assets/162285202/65a0c1c0-b180-4cdf-a0e0-c60b02d9ae5c)
 
+![image](https://github.com/Damn-666/EC2024/assets/162285202/0d3c4e93-1cfa-4e38-a7a4-8086b74598f0)
+
+![image](https://github.com/Damn-666/EC2024/assets/162285202/bcd479b9-b6a7-4c94-afe7-f8a4d48ed589)
+
+![image](https://github.com/Damn-666/EC2024/assets/162285202/c0b6529f-ee83-4b44-9bdd-75511e056b14)
+
+![image](https://github.com/Damn-666/EC2024/assets/162285202/c923e7d7-f9c5-4620-8cb7-2a70fbbd4afc)
+
+![image](https://github.com/Damn-666/EC2024/assets/162285202/f7993867-7d9f-44c6-8418-80cdbf412c16)
+
+![Uploading image.jpeg…]()
 
 
 
